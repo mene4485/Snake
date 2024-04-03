@@ -1,4 +1,4 @@
-# Snake Game for Gecko4Education EPFL-Edition
+# Snake Game in Assembly
 
 This project is an implementation of the classic Snake game, tailored for the Gecko4Education EPFL-Edition board. It has been written in assembly language, making it a great resource for those interested in low-level programming and hardware interaction.
 
